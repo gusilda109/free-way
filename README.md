@@ -146,3 +146,4 @@ disputed/hidden по порогам. NFR: кнопки от 44×44, фокус �
 - Сервер Valhalla от FOSSGIS — бесплатный демо-сервис без гарантий доступности (см. раздел про маршрут).
 - Node печатает `ExperimentalWarning: SQLite is an experimental feature` — это нормально.
 - Офлайн-режима нет (так задумано в MVP).
+# free-way
