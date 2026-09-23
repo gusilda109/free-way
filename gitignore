@@ -1,0 +1,27 @@
+# Зависимости и сборка
+node_modules/
+dist/
+
+# Локальные данные: база SQLite и загруженные фото
+data/
+
+# Секреты и локальные настройки (.env.example коммитим)
+.env
+.env.*
+!.env.example
+
+# Логи
+*.log
+npm-debug.log*
+
+# Тесты и кэши
+coverage/
+.vite/
+*.tsbuildinfo
+
+# Редакторы и ОС
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
